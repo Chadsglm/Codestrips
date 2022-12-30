@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
     "express": "^4.17.1",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "sqlite3": "^4.1.1",
     "structured": "^0.1.2",
